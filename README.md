@@ -19,4 +19,4 @@ This repository is intended for **personal learning and practice only** and is *
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/python-exercises.git
+git clone https://github.com/alirezsha/python-exercises.git
