@@ -1,4 +1,4 @@
-## Python Exercises
+## Introduction to Python Programming
 This repository contains Python exercises based on the **"Introduction to Python Programming"** course by **Pezhman Eghbali Shams Abadi** on **Faradars**.  
 I have modified the exercises while practicing, so the code here may differ from the original course examples.
 
