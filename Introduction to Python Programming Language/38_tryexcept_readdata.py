@@ -1,4 +1,4 @@
-file_path = 'F:/Offline Courses/03 - Python/data_1.txt'
+file_path = 'data_1.txt'
 
 try:
     with open(file_path) as f:
@@ -9,3 +9,4 @@ else:
     words = contents.split()
     number_of_words = len(words)
     print(f'file {file_path} has {number_of_words} words.')
+
