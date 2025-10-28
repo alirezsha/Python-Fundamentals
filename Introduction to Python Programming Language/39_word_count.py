@@ -11,7 +11,8 @@ def word_count(file_path):
         print(f'file {file_path} has {number_of_words} words.')
 
 file_path = ['a.txt',
-             'F:/Offline Courses/03 - Python/data_1.txt',
+             'data_1.txt',
              'F:/Offline Courses/03 - Python/data_2w.txt']
 for file in file_path:
     word_count(file)
+
