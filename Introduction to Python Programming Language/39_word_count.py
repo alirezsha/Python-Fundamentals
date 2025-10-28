@@ -12,7 +12,8 @@ def word_count(file_path):
 
 file_path = ['a.txt',
              'data_1.txt',
-             'F:/Offline Courses/03 - Python/data_2w.txt']
+             'data_2w.txt']
 for file in file_path:
     word_count(file)
+
 
