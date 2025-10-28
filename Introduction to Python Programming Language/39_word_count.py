@@ -15,5 +15,3 @@ file_path = ['a.txt',
              'data_2w.txt']
 for file in file_path:
     word_count(file)
-
-
