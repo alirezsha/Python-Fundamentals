@@ -2,7 +2,7 @@ import json
 
 password = input('Enter the password: ')
 
-file_path = 'F:/Offline Courses/03 - Python/password.json'
+file_path = 'password.json'
 
 with open(file_path, 'w') as f:
     json.dump(password, f)
