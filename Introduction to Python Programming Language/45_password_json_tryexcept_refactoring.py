@@ -2,7 +2,7 @@ import json
 
 def saved_password():
     """This function displays the saved password."""
-    file_path = 'F:/Offline Courses/03 - Python/password.json'
+    file_path = 'password.json'
     try:
         with open(file_path) as f:
             password = json.load(f)
@@ -29,3 +29,4 @@ def password_identification():
         print(f'Password set by you: {password}')
 
 password_identification()
+
