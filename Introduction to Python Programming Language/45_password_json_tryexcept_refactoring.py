@@ -29,5 +29,3 @@ def password_identification():
         print(f'Password set by you: {password}')
 
 password_identification()
-
-
