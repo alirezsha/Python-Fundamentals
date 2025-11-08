@@ -1,4 +1,4 @@
-## Introduction to Python Programming Language
+## Python Programming + Examples
 This repository contains Python exercises based on the **"Python Programming + Examples"** course by **Farshid Shirafkan** on **Faradars**.  
 I have modified the exercises while practicing, so the code here may differ from the original course examples.
 
