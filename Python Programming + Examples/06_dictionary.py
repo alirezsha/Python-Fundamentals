@@ -304,7 +304,7 @@ person = {'name': 'george',
 
 print(len(person))
 print(person['phone'])
-print(person['phone']['home'])
+print(person['phone']['hoe'])
 print(person['parent'][1])
 print()
 print(person.pop('age'))
