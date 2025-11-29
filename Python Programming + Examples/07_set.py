@@ -161,4 +161,5 @@ s2 = set(d2.items())
 s = s1&s2
 
 for k, v in s:
-    print(k
+    print(k)
+
