@@ -14,7 +14,7 @@ print('---------------------------------')
 def welcome(p):
     print(p)
     
-a = 'Welcome to USA!'
+a = 'Welcome to the USA!'
 
 welcome(a)
 print('---------------------------------')
@@ -262,3 +262,4 @@ def average(lst):
     return lst
 
 print(average(students_scores))
+
