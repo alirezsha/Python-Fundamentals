@@ -262,4 +262,3 @@ def average(lst):
     return lst
 
 print(average(students_scores))
-
