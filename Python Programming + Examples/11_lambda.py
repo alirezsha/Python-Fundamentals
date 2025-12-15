@@ -146,4 +146,4 @@ print('---------------------------------')
 print(sorted(stu, key = itemgetter(2), reverse=True))
 print('---------------------------------')
 
-print(sorted(stu, key = itemgetter(2, 0))
+print(sorted(stu, key = itemgetter(2, 0)))
