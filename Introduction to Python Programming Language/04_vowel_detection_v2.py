@@ -9,4 +9,4 @@ for letter in w:
             vowels.append(letter)
             
 for vowel in vowels:
-    print(vowel)
+  print(vowel)
