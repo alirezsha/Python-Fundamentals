@@ -10,4 +10,3 @@ for letter in w:
             
 for k, v in vowels.items():
     print(k, 'was found', v, 'time(s).')
-    
