@@ -5,4 +5,3 @@ vowels = v.intersection(set(w))
 
 for vowel in vowels:
     print(vowel)
-    
