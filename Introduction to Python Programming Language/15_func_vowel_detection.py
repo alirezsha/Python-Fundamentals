@@ -7,4 +7,3 @@ def vowel_detection():
 
     for vowel in vowels:
         print(vowel)
-        
