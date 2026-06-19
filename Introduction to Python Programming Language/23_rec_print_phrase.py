@@ -3,4 +3,3 @@ def print_phrase(phrase, a):
         return
     print(phrase)
     print_phrase(phrase, a-1)
-    
