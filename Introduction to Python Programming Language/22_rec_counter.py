@@ -4,4 +4,3 @@ def counter(a):
     else:
         print(a)
         counter(a-1)
-        
