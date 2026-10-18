@@ -1,5 +1,5 @@
 person_1 = {'Name': 'Alireza Sh',
-            'Job': 'Researcher Professor',
+            'Job': 'Research Professor',
             'City': 'Washington, D.C.',
             'Income': '390M'}
 
