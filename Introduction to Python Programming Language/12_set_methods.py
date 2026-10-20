@@ -7,4 +7,5 @@ d = vowels.difference(set(w))
 
 i = vowels.intersection(set(w))
 
+
 print(u, d, i)
