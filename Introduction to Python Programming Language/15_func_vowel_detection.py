@@ -6,4 +6,4 @@ def vowel_detection():
     vowels = v.intersection(set(w))
 
     for vowel in vowels:
-        print(vowel)
+        print(vowel
