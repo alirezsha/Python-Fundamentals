@@ -3,4 +3,4 @@ def counter(a):
         print('End')
     else:
         print(a)
-        counter(a-1)
+        counter(a-1
