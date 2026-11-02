@@ -7,4 +7,4 @@ def keyword_arg(**kwargs):
         print('%s == %s'%(k, v))
 
 def average(a, *b):
-    return (a + sum(b)) / (1 + len(b)
+    return (a + sum(b)) / (1 + len(b))
