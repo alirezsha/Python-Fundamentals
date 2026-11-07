@@ -7,4 +7,4 @@ class Counting:
         return str(self.value)
     
     def increase(self) -> None:
-        self.value += self.incr
+        self.value += self.inc
