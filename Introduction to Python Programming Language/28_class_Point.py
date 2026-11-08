@@ -18,4 +18,4 @@ def center(rectangle):
     p = Point()
     p.x = rectangle.corner.x + rectangle.width/2
     p.y = rectangle.corner.y - rectangle.height/2
-    return p
+    return 
