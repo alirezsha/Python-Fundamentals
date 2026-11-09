@@ -61,4 +61,4 @@ def correct_time(time):
         return False
     if time.minute >= 60 or time.second >= 60:
         return False
-    return True
+    return Tru
