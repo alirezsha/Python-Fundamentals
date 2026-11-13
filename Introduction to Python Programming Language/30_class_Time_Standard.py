@@ -42,4 +42,4 @@ class Time:
         return self
 
     def later(self, other):
-        return self.time_to_int() > other.time_to_int(
+        return self.time_to_int() > other.time_to_int()
