@@ -8,7 +8,7 @@ class Person():
 
 class Student(Person):
     def __init__(self, name, surname, grade):
-        super().__init__(name, surname)
+        super().__init__(name, surname
         self.gradelevel = grade
         
     def print_student(self):
