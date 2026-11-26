@@ -11,4 +11,4 @@ with open(file_path, 'w') as f:
 with open(file_path, 'a') as f:
     f.write('Data\n')
     f.write('Data Analytic\n')
-    f.write('Data Science\n'
+    f.write('Data Science\n')
